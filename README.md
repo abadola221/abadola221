@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arjun
-- 👀 I’m interested in AI , Deep Learning and System programming
+- 👀 I’m interested in AI , Deep Learning and Systems programming
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Projects based on rust 
 
